@@ -1,0 +1,28 @@
+# Core Vanna dependencies
+vanna[chromadb,openai]==0.5.5
+openai==1.51.0
+
+# Database connectivity
+mysql-connector-python==8.4.0
+PyMySQL==1.1.1
+
+# Azure services
+azure-search-documents==11.4.0
+azure-core==1.30.2
+azure-identity==1.17.1
+
+# Environment and utilities
+python-dotenv==1.0.1
+asyncio==3.4.3
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# HTTP and async
+aiohttp==3.9.5
+requests==2.32.3
+
+# Optional: For enhanced features
+colorama==0.4.6
+rich==13.7.1
